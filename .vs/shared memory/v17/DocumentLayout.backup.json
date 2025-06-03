@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\shared memory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3149B6E2-4E83-43D1-B052-AEDBD818DBCB}|shared memory\\shared memory.vcxproj|C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\shared memory\\shared memory\\shared memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3149B6E2-4E83-43D1-B052-AEDBD818DBCB}|shared memory\\shared memory.vcxproj|solutionrelative:shared memory\\shared memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1620,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shared memory.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\shared memory\\shared memory\\shared memory.cpp",
+              "RelativeDocumentMoniker": "shared memory\\shared memory.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043D\u0430\\source\\repos\\shared memory\\shared memory\\shared memory.cpp",
+              "RelativeToolTip": "shared memory\\shared memory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T19:28:00.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
